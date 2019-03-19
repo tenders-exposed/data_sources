@@ -1,0 +1,882 @@
+[
+    {
+        "code": "35300000",
+        "number_digits": 3,
+        "text": "Weapons, ammunition and associated parts"
+    },
+    {
+        "code": "35310000",
+        "number_digits": 4,
+        "text": "Miscellaneous weapons"
+    },
+    {
+        "code": "35311000",
+        "number_digits": 5,
+        "text": "Swords, cutlasses, bayonets and lances"
+    },
+    {
+        "code": "35311100",
+        "number_digits": 6,
+        "text": "Swords"
+    },
+    {
+        "code": "35311200",
+        "number_digits": 6,
+        "text": "Cutlasses"
+    },
+    {
+        "code": "35311300",
+        "number_digits": 6,
+        "text": "Bayonets"
+    },
+    {
+        "code": "35311400",
+        "number_digits": 6,
+        "text": "Lances"
+    },
+    {
+        "code": "35312000",
+        "number_digits": 5,
+        "text": "Gas guns"
+    },
+    {
+        "code": "35320000",
+        "number_digits": 4,
+        "text": "Firearms"
+    },
+    {
+        "code": "35321000",
+        "number_digits": 5,
+        "text": "Light firearms"
+    },
+    {
+        "code": "35321100",
+        "number_digits": 6,
+        "text": "Hand guns"
+    },
+    {
+        "code": "35321200",
+        "number_digits": 6,
+        "text": "Rifles"
+    },
+    {
+        "code": "35321300",
+        "number_digits": 6,
+        "text": "Machine guns"
+    },
+    {
+        "code": "35322000",
+        "number_digits": 5,
+        "text": "Artillery"
+    },
+    {
+        "code": "35322100",
+        "number_digits": 6,
+        "text": "Anti-aircraft"
+    },
+    {
+        "code": "35322200",
+        "number_digits": 6,
+        "text": "Self-propelled artillery"
+    },
+    {
+        "code": "35322300",
+        "number_digits": 6,
+        "text": "Towed artillery"
+    },
+    {
+        "code": "35322400",
+        "number_digits": 6,
+        "text": "Mortars"
+    },
+    {
+        "code": "35322500",
+        "number_digits": 6,
+        "text": "Howitzer"
+    },
+    {
+        "code": "35330000",
+        "number_digits": 4,
+        "text": "Ammunition"
+    },
+    {
+        "code": "35331000",
+        "number_digits": 5,
+        "text": "Ammunition for firearms and warfare"
+    },
+    {
+        "code": "35331100",
+        "number_digits": 6,
+        "text": "Bullets"
+    },
+    {
+        "code": "35331200",
+        "number_digits": 6,
+        "text": "Shells"
+    },
+    {
+        "code": "35331300",
+        "number_digits": 6,
+        "text": "Grenades"
+    },
+    {
+        "code": "35331400",
+        "number_digits": 6,
+        "text": "Land mines"
+    },
+    {
+        "code": "35331500",
+        "number_digits": 6,
+        "text": "Cartridges"
+    },
+    {
+        "code": "35332000",
+        "number_digits": 5,
+        "text": "Ammunition for naval warfare"
+    },
+    {
+        "code": "35332100",
+        "number_digits": 6,
+        "text": "Torpedoes"
+    },
+    {
+        "code": "35332200",
+        "number_digits": 6,
+        "text": "Sea mines"
+    },
+    {
+        "code": "35333000",
+        "number_digits": 5,
+        "text": "Ammunition for aerial warfare"
+    },
+    {
+        "code": "35333100",
+        "number_digits": 6,
+        "text": "Bombs"
+    },
+    {
+        "code": "35333200",
+        "number_digits": 6,
+        "text": "Rockets"
+    },
+    {
+        "code": "35340000",
+        "number_digits": 4,
+        "text": "Parts of firearms and ammunition"
+    },
+    {
+        "code": "35341000",
+        "number_digits": 5,
+        "text": "Parts of light firearms"
+    },
+    {
+        "code": "35341100",
+        "number_digits": 6,
+        "text": "Gunmetal pipe fittings"
+    },
+    {
+        "code": "35342000",
+        "number_digits": 5,
+        "text": "Parts of rocket launchers"
+    },
+    {
+        "code": "35343000",
+        "number_digits": 5,
+        "text": "Parts of mortars"
+    },
+    {
+        "code": "35400000",
+        "number_digits": 3,
+        "text": "Military vehicles and associated parts"
+    },
+    {
+        "code": "35410000",
+        "number_digits": 4,
+        "text": "Armoured military vehicles"
+    },
+    {
+        "code": "35411000",
+        "number_digits": 5,
+        "text": "Battle tanks"
+    },
+    {
+        "code": "35411100",
+        "number_digits": 6,
+        "text": "Main battle tanks"
+    },
+    {
+        "code": "35411200",
+        "number_digits": 6,
+        "text": "Light battle tanks"
+    },
+    {
+        "code": "35412000",
+        "number_digits": 5,
+        "text": "Armoured combat vehicles"
+    },
+    {
+        "code": "35412100",
+        "number_digits": 6,
+        "text": "Infantry fighting vehicles"
+    },
+    {
+        "code": "35412200",
+        "number_digits": 6,
+        "text": "Armoured personnel carriers"
+    },
+    {
+        "code": "35412300",
+        "number_digits": 6,
+        "text": "Armoured weapon carriers"
+    },
+    {
+        "code": "35412400",
+        "number_digits": 6,
+        "text": "Reconnaissance and patrol vehicles"
+    },
+    {
+        "code": "35412500",
+        "number_digits": 6,
+        "text": "Command and liaison vehicles"
+    },
+    {
+        "code": "35420000",
+        "number_digits": 4,
+        "text": "Parts of military vehicles"
+    },
+    {
+        "code": "35421000",
+        "number_digits": 5,
+        "text": "Mechanical spare parts for military vehicles"
+    },
+    {
+        "code": "35421100",
+        "number_digits": 6,
+        "text": "Engines and engine parts for military vehicles"
+    },
+    {
+        "code": "35422000",
+        "number_digits": 5,
+        "text": "Electronic and electrical spare parts for military vehicles"
+    },
+    {
+        "code": "35500000",
+        "number_digits": 3,
+        "text": "Warships and associated parts"
+    },
+    {
+        "code": "35510000",
+        "number_digits": 4,
+        "text": "Warships"
+    },
+    {
+        "code": "35511000",
+        "number_digits": 5,
+        "text": "Surface combatant"
+    },
+    {
+        "code": "35511100",
+        "number_digits": 6,
+        "text": "Aircraft carriers"
+    },
+    {
+        "code": "35511200",
+        "number_digits": 6,
+        "text": "Destroyers and frigates"
+    },
+    {
+        "code": "35511300",
+        "number_digits": 6,
+        "text": "Corvettes and patrol boats"
+    },
+    {
+        "code": "35511400",
+        "number_digits": 6,
+        "text": "Amphibious crafts and ships"
+    },
+    {
+        "code": "35512000",
+        "number_digits": 5,
+        "text": "Submarines"
+    },
+    {
+        "code": "35512100",
+        "number_digits": 6,
+        "text": "Strategic submarine nuclear fuelled"
+    },
+    {
+        "code": "35512200",
+        "number_digits": 6,
+        "text": "Attack submarine nuclear fuelled"
+    },
+    {
+        "code": "35512300",
+        "number_digits": 6,
+        "text": "Attack submarine diesel fuelled"
+    },
+    {
+        "code": "35512400",
+        "number_digits": 6,
+        "text": "Unmanned underwater vehicles"
+    },
+    {
+        "code": "35513000",
+        "number_digits": 5,
+        "text": "Mine warfare and auxiliary ships"
+    },
+    {
+        "code": "35513100",
+        "number_digits": 6,
+        "text": "Mine hunter\/minesweeper"
+    },
+    {
+        "code": "35513200",
+        "number_digits": 6,
+        "text": "Auxiliary research vessel"
+    },
+    {
+        "code": "35513300",
+        "number_digits": 6,
+        "text": "Auxiliary intelligence collection vessel"
+    },
+    {
+        "code": "35513400",
+        "number_digits": 6,
+        "text": "Auxiliary hospital; cargo; tanker; ro-ro vessel"
+    },
+    {
+        "code": "35520000",
+        "number_digits": 4,
+        "text": "Parts for warships"
+    },
+    {
+        "code": "35521000",
+        "number_digits": 5,
+        "text": "Hull and mechanical spare parts for warships"
+    },
+    {
+        "code": "35521100",
+        "number_digits": 6,
+        "text": "Engines and engine parts for warships"
+    },
+    {
+        "code": "35522000",
+        "number_digits": 5,
+        "text": "Electronic and electrical spare parts for warships"
+    },
+    {
+        "code": "35600000",
+        "number_digits": 3,
+        "text": "Military aircrafts, missiles and spacecrafts"
+    },
+    {
+        "code": "35610000",
+        "number_digits": 4,
+        "text": "Military aircrafts"
+    },
+    {
+        "code": "35611100",
+        "number_digits": 6,
+        "text": "Fighter aircrafts"
+    },
+    {
+        "code": "35611200",
+        "number_digits": 6,
+        "text": "Fighter-bomber\/ground attack aircrafts"
+    },
+    {
+        "code": "35611300",
+        "number_digits": 6,
+        "text": "Bomber aircrafts"
+    },
+    {
+        "code": "35611400",
+        "number_digits": 6,
+        "text": "Military transport aircrafts"
+    },
+    {
+        "code": "35611500",
+        "number_digits": 6,
+        "text": "Training aircrafts"
+    },
+    {
+        "code": "35611600",
+        "number_digits": 6,
+        "text": "Maritime patrol aircrafts"
+    },
+    {
+        "code": "35611700",
+        "number_digits": 6,
+        "text": "Tanker aircrafts"
+    },
+    {
+        "code": "35611800",
+        "number_digits": 6,
+        "text": "Reconnaissance aircrafts"
+    },
+    {
+        "code": "35612100",
+        "number_digits": 6,
+        "text": "Combat helicopters"
+    },
+    {
+        "code": "35612200",
+        "number_digits": 6,
+        "text": "Anti submarine warfare helicopters"
+    },
+    {
+        "code": "35612300",
+        "number_digits": 6,
+        "text": "Support helicopters"
+    },
+    {
+        "code": "35612400",
+        "number_digits": 6,
+        "text": "Military transport helicopters"
+    },
+    {
+        "code": "35612500",
+        "number_digits": 6,
+        "text": "Search and rescue helicopters"
+    },
+    {
+        "code": "35613000",
+        "number_digits": 5,
+        "text": "Unmanned aerial vehicles"
+    },
+    {
+        "code": "35613100",
+        "number_digits": 6,
+        "text": "Unmanned combat aerial vehicles"
+    },
+    {
+        "code": "35620000",
+        "number_digits": 4,
+        "text": "Missiles"
+    },
+    {
+        "code": "35621000",
+        "number_digits": 5,
+        "text": "Strategic missiles"
+    },
+    {
+        "code": "35621100",
+        "number_digits": 6,
+        "text": "Strategic anti-ballistic missiles"
+    },
+    {
+        "code": "35621200",
+        "number_digits": 6,
+        "text": "Inter continental ballistic missiles"
+    },
+    {
+        "code": "35621300",
+        "number_digits": 6,
+        "text": "Submarine launched ballistic missiles"
+    },
+    {
+        "code": "35621400",
+        "number_digits": 6,
+        "text": "Intermediate range ballistic missiles"
+    },
+    {
+        "code": "35622000",
+        "number_digits": 5,
+        "text": "Tactical missiles"
+    },
+    {
+        "code": "35622100",
+        "number_digits": 6,
+        "text": "Air-to-air missiles"
+    },
+    {
+        "code": "35622200",
+        "number_digits": 6,
+        "text": "Air-to-ground missiles"
+    },
+    {
+        "code": "35622300",
+        "number_digits": 6,
+        "text": "Anti-ship missiles"
+    },
+    {
+        "code": "35622400",
+        "number_digits": 6,
+        "text": "Anti-submarines rockets"
+    },
+    {
+        "code": "35622500",
+        "number_digits": 6,
+        "text": "Tactical anti-ballistic missiles"
+    },
+    {
+        "code": "35622600",
+        "number_digits": 6,
+        "text": "Anti-tank guided missiles"
+    },
+    {
+        "code": "35622700",
+        "number_digits": 6,
+        "text": "Surface-to-air missiles"
+    },
+    {
+        "code": "35623000",
+        "number_digits": 5,
+        "text": "Cruise missiles"
+    },
+    {
+        "code": "35623100",
+        "number_digits": 6,
+        "text": "Air\/ground\/sea launched cruise missiles"
+    },
+    {
+        "code": "35630000",
+        "number_digits": 4,
+        "text": "Military spacecrafts"
+    },
+    {
+        "code": "35631000",
+        "number_digits": 5,
+        "text": "Military satellites"
+    },
+    {
+        "code": "35631100",
+        "number_digits": 6,
+        "text": "Communication satellites"
+    },
+    {
+        "code": "35631200",
+        "number_digits": 6,
+        "text": "Observation satellites"
+    },
+    {
+        "code": "35631300",
+        "number_digits": 6,
+        "text": "Navigation satellites"
+    },
+    {
+        "code": "35640000",
+        "number_digits": 4,
+        "text": "Parts for military aerospace equipment"
+    },
+    {
+        "code": "35641000",
+        "number_digits": 5,
+        "text": "Structure and mechanical spare parts for military aerospace equipment"
+    },
+    {
+        "code": "35641100",
+        "number_digits": 6,
+        "text": "Engines and engine parts for military aerospace equipment"
+    },
+    {
+        "code": "35642000",
+        "number_digits": 5,
+        "text": "Electronic and electrical spare parts for military aerospace equipment"
+    },
+    {
+        "code": "35700000",
+        "number_digits": 3,
+        "text": "Military electronic systems"
+    },
+    {
+        "code": "35710000",
+        "number_digits": 4,
+        "text": "Command, control, communication and computer systems"
+    },
+    {
+        "code": "35711000",
+        "number_digits": 5,
+        "text": "Command, control, communication systems"
+    },
+    {
+        "code": "35712000",
+        "number_digits": 5,
+        "text": "Tactical command, control and communication systems"
+    },
+    {
+        "code": "35720000",
+        "number_digits": 4,
+        "text": "Intelligence, surveillance, target acquisition and reconnaissance"
+    },
+    {
+        "code": "35721000",
+        "number_digits": 5,
+        "text": "Electronic intelligence system"
+    },
+    {
+        "code": "35722000",
+        "number_digits": 5,
+        "text": "Radar"
+    },
+    {
+        "code": "35723000",
+        "number_digits": 5,
+        "text": "Air defence radar"
+    },
+    {
+        "code": "35730000",
+        "number_digits": 4,
+        "text": "Electronic warfare systems and counter measures"
+    },
+    {
+        "code": "35740000",
+        "number_digits": 4,
+        "text": "Battle simulators"
+    },
+    {
+        "code": "35800000",
+        "number_digits": 3,
+        "text": "Individual and support equipment"
+    },
+    {
+        "code": "35810000",
+        "number_digits": 4,
+        "text": "Individual equipment"
+    },
+    {
+        "code": "35811100",
+        "number_digits": 6,
+        "text": "Fire-brigade uniforms"
+    },
+    {
+        "code": "35811200",
+        "number_digits": 6,
+        "text": "Police uniforms"
+    },
+    {
+        "code": "35811300",
+        "number_digits": 6,
+        "text": "Military uniforms"
+    },
+    {
+        "code": "35812000",
+        "number_digits": 5,
+        "text": "Combat uniforms"
+    },
+    {
+        "code": "35812100",
+        "number_digits": 6,
+        "text": "Camouflage jackets"
+    },
+    {
+        "code": "35812200",
+        "number_digits": 6,
+        "text": "Combat suits"
+    },
+    {
+        "code": "35812300",
+        "number_digits": 6,
+        "text": "Combat gear"
+    },
+    {
+        "code": "35813000",
+        "number_digits": 5,
+        "text": "Military helmets"
+    },
+    {
+        "code": "35813100",
+        "number_digits": 6,
+        "text": "Helmet covers"
+    },
+    {
+        "code": "35814000",
+        "number_digits": 5,
+        "text": "Gas masks"
+    },
+    {
+        "code": "35815000",
+        "number_digits": 5,
+        "text": "Garments for anti-ballistic protection"
+    },
+    {
+        "code": "35815100",
+        "number_digits": 6,
+        "text": "Bullet-proof vests"
+    },
+    {
+        "code": "35820000",
+        "number_digits": 4,
+        "text": "Support equipment"
+    },
+    {
+        "code": "35821000",
+        "number_digits": 5,
+        "text": "Flags"
+    },
+    {
+        "code": "35821100",
+        "number_digits": 6,
+        "text": "Flagpole"
+    },
+    {
+        "code": "45111310",
+        "number_digits": 7,
+        "text": "Dismantling works for military installations"
+    },
+    {
+        "code": "45216200",
+        "number_digits": 6,
+        "text": "Construction work for military buildings and installations"
+    },
+    {
+        "code": "45216220",
+        "number_digits": 7,
+        "text": "Military bunker construction work"
+    },
+    {
+        "code": "45216230",
+        "number_digits": 7,
+        "text": "Military shelter construction work"
+    },
+    {
+        "code": "45216250",
+        "number_digits": 7,
+        "text": "Trench defences construction work"
+    },
+    {
+        "code": "45222200",
+        "number_digits": 6,
+        "text": "Engineering work for military installations"
+    },
+    {
+        "code": "71355200",
+        "number_digits": 6,
+        "text": "Ordnance surveying"
+    },
+    {
+        "code": "72231000",
+        "number_digits": 5,
+        "text": "Development of software for military applications"
+    },
+    {
+        "code": "73400000",
+        "number_digits": 3,
+        "text": "Research and Development services on security and defence materials"
+    },
+    {
+        "code": "73410000",
+        "number_digits": 4,
+        "text": "Military research and technology"
+    },
+    {
+        "code": "73420000",
+        "number_digits": 4,
+        "text": "Pre-feasibility study and technological demonstration"
+    },
+    {
+        "code": "73421000",
+        "number_digits": 5,
+        "text": "Development of security equipment"
+    },
+    {
+        "code": "73422000",
+        "number_digits": 5,
+        "text": "Development of firearms and ammunition"
+    },
+    {
+        "code": "73423000",
+        "number_digits": 5,
+        "text": "Development of military vehicles"
+    },
+    {
+        "code": "73424000",
+        "number_digits": 5,
+        "text": "Development of warships"
+    },
+    {
+        "code": "73425000",
+        "number_digits": 5,
+        "text": "Development of military aircrafts, missiles and spacecrafts"
+    },
+    {
+        "code": "73426000",
+        "number_digits": 5,
+        "text": "Development of military electronic systems"
+    },
+    {
+        "code": "73430000",
+        "number_digits": 4,
+        "text": "Test and evaluation"
+    },
+    {
+        "code": "73431000",
+        "number_digits": 5,
+        "text": "Test and evaluation of security equipment"
+    },
+    {
+        "code": "73432000",
+        "number_digits": 5,
+        "text": "Test and evaluation of firearms and ammunition"
+    },
+    {
+        "code": "73433000",
+        "number_digits": 5,
+        "text": "Test and evaluation of military vehicles"
+    },
+    {
+        "code": "73434000",
+        "number_digits": 5,
+        "text": "Test and evaluation of warships"
+    },
+    {
+        "code": "73435000",
+        "number_digits": 5,
+        "text": "Test and evaluation of military aircrafts, missiles and spacecrafts"
+    },
+    {
+        "code": "73436000",
+        "number_digits": 5,
+        "text": "Test and evaluation of military electronic systems"
+    },
+    {
+        "code": "75211300",
+        "number_digits": 6,
+        "text": "Foreign military-aid-related services"
+    },
+    {
+        "code": "75220000",
+        "number_digits": 4,
+        "text": "Defence services"
+    },
+    {
+        "code": "75221000",
+        "number_digits": 5,
+        "text": "Military defence services"
+    },
+    {
+        "code": "80600000",
+        "number_digits": 3,
+        "text": "Training services in defence and security materials"
+    },
+    {
+        "code": "80610000",
+        "number_digits": 4,
+        "text": "Training and simulation in security equipment"
+    },
+    {
+        "code": "80620000",
+        "number_digits": 4,
+        "text": "Training and simulation in firearms and ammunition"
+    },
+    {
+        "code": "80630000",
+        "number_digits": 4,
+        "text": "Training and simulation in military vehicles"
+    },
+    {
+        "code": "80640000",
+        "number_digits": 4,
+        "text": "Training and simulation in warships"
+    },
+    {
+        "code": "80650000",
+        "number_digits": 4,
+        "text": "Training and simulation in aircrafts, missiles and spacecrafts"
+    },
+    {
+        "code": "80660000",
+        "number_digits": 4,
+        "text": "Training and simulation in military electronic systems"
+    }
+]
