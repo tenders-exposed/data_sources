@@ -44497,92 +44497,92 @@
   },
   {
     "code_2003": "60110000",
-    "description_2003": "Passenger land transport services.(1)",
-    "code_2007": "60112000(1)",
+    "description_2003": "Passenger land transport services.",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
     "code_2003": "60111000",
     "description_2003": "Passenger transport by railway.",
-    "code_2007": "60210000(1)",
+    "code_2007": "60210000",
     "description_2007": "Public transport services by railways."
   },
   {
     "code_2003": "60112000",
-    "description_2003": "Public transport services.(1)",
-    "code_2007": "60112000(1)",
+    "description_2003": "Public transport services.",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
     "code_2003": "60112100",
     "description_2003": "Public transport services by tram.",
-    "code_2007": "60112000(1)",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
     "code_2003": "60112200",
     "description_2003": "Public transport services by bus.",
-    "code_2007": "60112000(1)",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
     "code_2003": "60112300",
     "description_2003": "Public transport services by coach.",
-    "code_2007": "60112000(1)",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
     "code_2003": "60113000",
-    "description_2003": "Restricted-clientele transport services.(1)",
-    "code_2007": "60130000(1)",
+    "description_2003": "Restricted-clientele transport services.",
+    "code_2007": "60130000",
     "description_2007": "Special-purpose road passenger-transport services."
   },
   {
     "code_2003": "60113100",
     "description_2003": "School bus services.",
-    "code_2007": "60130000(1)",
+    "code_2007": "60130000",
     "description_2007": "Special-purpose road passenger-transport services."
   },
   {
     "code_2003": "60113200",
-    "description_2003": "Prisoner-transport services.(1)",
-    "code_2007": "60140000(1)",
+    "description_2003": "Prisoner-transport services.",
+    "code_2007": "60140000",
     "description_2007": "Non-scheduled passenger transport."
   },
   {
     "code_2003": "60113300",
-    "description_2003": "Patient-transport services.(1)",
-    "code_2007": "60140000(1)",
+    "description_2003": "Patient-transport services.",
+    "code_2007": "60140000",
     "description_2007": "Non-scheduled passenger transport."
   },
   {
     "code_2003": "60113310",
-    "description_2003": "Non-emergency patient-transport services.(1)",
-    "code_2007": "60140000(1)",
+    "description_2003": "Non-emergency patient-transport services.",
+    "code_2007": "60140000",
     "description_2007": "Non-scheduled passenger transport."
   },
   {
     "code_2003": "60113400",
-    "description_2003": "Transport of handicapped persons.(1)",
-    "code_2007": "60140000(1)",
+    "description_2003": "Transport of handicapped persons.",
+    "code_2007": "60140000",
     "description_2007": "Non-scheduled passenger transport."
   },
   {
     "code_2003": "60113500",
-    "description_2003": "Transport of the elderly.(1)",
-    "code_2007": "60140000(1)",
+    "description_2003": "Transport of the elderly.",
+    "code_2007": "60140000",
     "description_2007": "Non-scheduled passenger transport."
   },
   {
     "code_2003": "60114000",
-    "description_2003": "Regular passenger transport services.(1)",
-    "code_2007": "60112000(1)",
+    "description_2003": "Regular passenger transport services.",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
     "code_2003": "60115000",
     "description_2003": "Passenger-transport services by car.",
-    "code_2007": "60112000(1)",
+    "code_2007": "60112000",
     "description_2007": "Public road transport services."
   },
   {
@@ -44593,20 +44593,20 @@
   },
   {
     "code_2003": "60116000",
-    "description_2003": "Special-purpose land passenger-transport services.(1)",
-    "code_2007": "60130000(1)",
+    "description_2003": "Special-purpose land passenger-transport services.",
+    "code_2007": "60130000",
     "description_2007": "Special-purpose road passenger-transport services."
   },
   {
     "code_2003": "60116100",
-    "description_2003": "Non-scheduled passenger transport.(1)",
-    "code_2007": "60140000(1)",
+    "description_2003": "Non-scheduled passenger transport.",
+    "code_2007": "60140000",
     "description_2007": "Non-scheduled passenger transport."
   },
   {
     "code_2003": "60116200",
     "description_2003": "Sightseeing bus services.",
-    "code_2007": "60130000(1)",
+    "code_2007": "60130000",
     "description_2007": "Special-purpose road passenger-transport services."
   },
   {
@@ -44642,31 +44642,31 @@
   {
     "code_2003": "60121000",
     "description_2003": "Freight transport by railways.",
-    "code_2007": "60200000(1)",
+    "code_2007": "60200000",
     "description_2007": "Railway transport services."
   },
   {
     "code_2003": "60121100",
     "description_2003": "Railway transport of frozen or refrigerated goods.",
-    "code_2007": "60200000(1)",
+    "code_2007": "60200000",
     "description_2007": "Railway transport services."
   },
   {
     "code_2003": "60121200",
     "description_2003": "Railway transport of petroleum products.",
-    "code_2007": "60200000(1)",
+    "code_2007": "60200000",
     "description_2007": "Railway transport services."
   },
   {
     "code_2003": "60121300",
     "description_2003": "Railway transport of bulk liquids or gases.",
-    "code_2007": "60200000(1)",
+    "code_2007": "60200000",
     "description_2007": "Railway transport services."
   },
   {
     "code_2003": "60121400",
     "description_2003": "Railway transport of containerised freight.",
-    "code_2007": "60200000(1)",
+    "code_2007": "60200000",
     "description_2007": "Railway transport services."
   },
   {
@@ -44678,7 +44678,7 @@
   {
     "code_2003": "60121600",
     "description_2003": "Railway transport of dry bulk goods.",
-    "code_2007": "60200000(1)",
+    "code_2007": "60200000",
     "description_2007": "Railway transport services."
   },
   {
@@ -45667,176 +45667,176 @@
   },
   {
     "code_2003": "64200000",
-    "description_2003": "Telecommunications services.(2)",
+    "description_2003": "Telecommunications services.",
     "code_2007": "64200000",
     "description_2007": "Telecommunications services."
   },
   {
     "code_2003": "64210000",
-    "description_2003": "Telephone and data transmission services.(2)",
+    "description_2003": "Telephone and data transmission services.",
     "code_2007": "64210000",
     "description_2007": "Telephone and data transmission services."
   },
   {
     "code_2003": "64211000",
-    "description_2003": "Public-telephone services.(2)",
+    "description_2003": "Public-telephone services.",
     "code_2007": "64211000",
     "description_2007": "Public-telephone services."
   },
   {
     "code_2003": "64212000",
-    "description_2003": "Mobile-telephone services.(2)",
+    "description_2003": "Mobile-telephone services.",
     "code_2007": "64212000",
     "description_2007": "Mobile-telephone services."
   },
   {
     "code_2003": "64213000",
-    "description_2003": "Shared-business telephone network services.(2)",
+    "description_2003": "Shared-business telephone network services.",
     "code_2007": "64213000",
     "description_2007": "Shared-business telephone network services."
   },
   {
     "code_2003": "64214000",
-    "description_2003": "Dedicated-business telephone network services.(2)",
+    "description_2003": "Dedicated-business telephone network services.",
     "code_2007": "64214000",
     "description_2007": "Dedicated-business telephone network services."
   },
   {
     "code_2003": "64214100",
-    "description_2003": "Satellite circuit rental services.(2)",
+    "description_2003": "Satellite circuit rental services.",
     "code_2007": "64214100",
     "description_2007": "Satellite circuit rental services."
   },
   {
     "code_2003": "64214200",
-    "description_2003": "Telephone switchboard services.(2)",
+    "description_2003": "Telephone switchboard services.",
     "code_2007": "64214200",
     "description_2007": "Telephone switchboard services."
   },
   {
     "code_2003": "64214400",
-    "description_2003": "Communication land-line rental.(2)",
+    "description_2003": "Communication land-line rental.",
     "code_2007": "64214400",
     "description_2007": "Communication land-line rental."
   },
   {
     "code_2003": "64216000",
-    "description_2003": "Electronic message and information services.(2)",
+    "description_2003": "Electronic message and information services.",
     "code_2007": "64216000",
     "description_2007": "Electronic message and information services."
   },
   {
     "code_2003": "64216100",
-    "description_2003": "Electronic message services.(2)",
+    "description_2003": "Electronic message services.",
     "code_2007": "64216100",
     "description_2007": "Electronic message services."
   },
   {
     "code_2003": "64216110",
-    "description_2003": "Electronic data exchange services.(2)",
+    "description_2003": "Electronic data exchange services.",
     "code_2007": "64216110",
     "description_2007": "Electronic data exchange services."
   },
   {
     "code_2003": "64216120",
-    "description_2003": "Electronic mail services.(2)",
+    "description_2003": "Electronic mail services.",
     "code_2007": "64216120",
     "description_2007": "Electronic mail services."
   },
   {
     "code_2003": "64216130",
-    "description_2003": "Telex services.(2)",
+    "description_2003": "Telex services.",
     "code_2007": "64216130",
     "description_2007": "Telex services."
   },
   {
     "code_2003": "64216140",
-    "description_2003": "Telegraph services.(2)",
+    "description_2003": "Telegraph services.",
     "code_2007": "64216140",
     "description_2007": "Telegraph services."
   },
   {
     "code_2003": "64216200",
-    "description_2003": "Electronic information services.(2)",
+    "description_2003": "Electronic information services.",
     "code_2007": "64216200",
     "description_2007": "Electronic information services."
   },
   {
     "code_2003": "64216210",
-    "description_2003": "Value-added information services.(2)",
+    "description_2003": "Value-added information services.",
     "code_2007": "64216210",
     "description_2007": "Value-added information services."
   },
   {
     "code_2003": "64216300",
-    "description_2003": "Teletext services.(2)",
+    "description_2003": "Teletext services.",
     "code_2007": "64216300",
     "description_2007": "Teletext services."
   },
   {
     "code_2003": "64220000",
-    "description_2003": "Telecommunication services except telephone and data transmission services.(2)",
+    "description_2003": "Telecommunication services except telephone and data transmission services.",
     "code_2007": "64220000",
     "description_2007": "Telecommunication services except telephone and data transmission services."
   },
   {
     "code_2003": "64221000",
-    "description_2003": "Interconnection services.(2)",
+    "description_2003": "Interconnection services.",
     "code_2007": "64221000",
     "description_2007": "Interconnection services."
   },
   {
     "code_2003": "64222000",
-    "description_2003": "Teleworking services.(2)",
+    "description_2003": "Teleworking services.",
     "code_2007": "64222000",
     "description_2007": "Teleworking services."
   },
   {
     "code_2003": "64223000",
-    "description_2003": "Paging services.(2)",
+    "description_2003": "Paging services.",
     "code_2007": "64223000",
     "description_2007": "Paging services."
   },
   {
     "code_2003": "64224000",
-    "description_2003": "Teleconferencing services.(2)",
+    "description_2003": "Teleconferencing services.",
     "code_2007": "64224000",
     "description_2007": "Teleconferencing services."
   },
   {
     "code_2003": "64225000",
-    "description_2003": "Air-to-ground telecommunications services.(2)",
+    "description_2003": "Air-to-ground telecommunications services.",
     "code_2007": "64225000",
     "description_2007": "Air-to-ground telecommunications services."
   },
   {
     "code_2003": "64226000",
-    "description_2003": "Telematics services.(2)",
+    "description_2003": "Telematics services.",
     "code_2007": "64226000",
     "description_2007": "Telematics services."
   },
   {
     "code_2003": "64227000",
-    "description_2003": "Integrated telecommunications services.(2)",
+    "description_2003": "Integrated telecommunications services.",
     "code_2007": "64227000",
     "description_2007": "Integrated telecommunications services."
   },
   {
     "code_2003": "64228000",
-    "description_2003": "Television and radio broadcast transmission services.(2)(7)",
-    "code_2007": "64228000(6)",
+    "description_2003": "Television and radio broadcast transmission services.",
+    "code_2007": "64228000",
     "description_2007": "Television and radio broadcast transmission services."
   },
   {
     "code_2003": "64228100",
-    "description_2003": "Television broadcast transmission services.(2)(7)",
-    "code_2007": "64228100(6)",
+    "description_2003": "Television broadcast transmission services.",
+    "code_2007": "64228100",
     "description_2007": "Television broadcast transmission services."
   },
   {
     "code_2003": "64228200",
-    "description_2003": "Radio broadcast transmission services.(2)(7)",
-    "code_2007": "64228200(6)",
+    "description_2003": "Radio broadcast transmission services.",
+    "code_2007": "64228200",
     "description_2007": "Radio broadcast transmission services."
   },
   {
@@ -45931,38 +45931,38 @@
   },
   {
     "code_2003": "66100000",
-    "description_2003": "Financial intermediation services, except investment banking, insurance services and pension services.(3)",
-    "code_2007": "66110000(2)",
+    "description_2003": "Financial intermediation services, except investment banking, insurance services and pension services.",
+    "code_2007": "66110000",
     "description_2007": "Banking services."
   },
   {
     "code_2003": "66110000",
-    "description_2003": "Central bank services.(3)",
-    "code_2007": "66111000(2)",
+    "description_2003": "Central bank services.",
+    "code_2007": "66111000",
     "description_2007": "Central bank services."
   },
   {
     "code_2003": "66120000",
-    "description_2003": "Deposit services.(3)",
-    "code_2007": "66112000(2)",
+    "description_2003": "Deposit services.",
+    "code_2007": "66112000",
     "description_2007": "Deposit services."
   },
   {
     "code_2003": "66130000",
-    "description_2003": "Credit granting services.(3)",
-    "code_2007": "66113000(2)",
+    "description_2003": "Credit granting services.",
+    "code_2007": "66113000",
     "description_2007": "Credit granting services."
   },
   {
     "code_2003": "66140000",
-    "description_2003": "Financial leasing services.(3)",
-    "code_2007": "66114000(2)",
+    "description_2003": "Financial leasing services.",
+    "code_2007": "66114000",
     "description_2007": "Financial leasing services."
   },
   {
     "code_2003": "66200000",
-    "description_2003": "Investment banking services.(3)",
-    "code_2007": "66120000(2)",
+    "description_2003": "Investment banking services.",
+    "code_2007": "66120000",
     "description_2007": "Investment banking services and related services."
   },
   {
@@ -46261,152 +46261,152 @@
   },
   {
     "code_2003": "67100000",
-    "description_2003": "Services auxiliary to financial intermediation, except to insurance and pension funding.(3)",
-    "code_2007": "66100000(2)",
+    "description_2003": "Services auxiliary to financial intermediation, except to insurance and pension funding.",
+    "code_2007": "66100000",
     "description_2007": "Banking and investment services."
   },
   {
     "code_2003": "67110000",
-    "description_2003": "Services related to investment banking.(3)",
-    "code_2007": "66120000(2)",
+    "description_2003": "Services related to investment banking.",
+    "code_2007": "66120000",
     "description_2007": "Investment banking services and related services."
   },
   {
     "code_2003": "67111000",
-    "description_2003": "Mergers and acquisition services.(3)",
-    "code_2007": "66121000(2)",
+    "description_2003": "Mergers and acquisition services.",
+    "code_2007": "66121000",
     "description_2007": "Mergers and acquisition services."
   },
   {
     "code_2003": "67112000",
-    "description_2003": "Corporate finance and venture capital services.(3)",
-    "code_2007": "66122000(2)",
+    "description_2003": "Corporate finance and venture capital services.",
+    "code_2007": "66122000",
     "description_2007": "Corporate finance and venture capital services."
   },
   {
     "code_2003": "67113000",
-    "description_2003": "Other services related to investment banking.(3)",
-    "code_2007": "66120000(2)",
+    "description_2003": "Other services related to investment banking.",
+    "code_2007": "66120000",
     "description_2007": "Investment banking services and related services."
   },
   {
     "code_2003": "67120000",
-    "description_2003": "Brokerage and related securities and commodities services.(3)",
-    "code_2007": "66130000(2)",
+    "description_2003": "Brokerage and related securities and commodities services.",
+    "code_2007": "66130000",
     "description_2007": "Brokerage and related securities and commodities services."
   },
   {
     "code_2003": "67121000",
-    "description_2003": "Security brokerage services.(3)",
-    "code_2007": "66131000(2)",
+    "description_2003": "Security brokerage services.",
+    "code_2007": "66131000",
     "description_2007": "Security brokerage services."
   },
   {
     "code_2003": "67121100",
-    "description_2003": "Pension investment services.(3)",
-    "code_2007": "66131100(2)",
+    "description_2003": "Pension investment services.",
+    "code_2007": "66131100",
     "description_2007": "Pension investment services."
   },
   {
     "code_2003": "67122000",
-    "description_2003": "Commodity brokerage services.(3)",
-    "code_2007": "66132000(2)",
+    "description_2003": "Commodity brokerage services.",
+    "code_2007": "66132000",
     "description_2007": "Commodity brokerage services."
   },
   {
     "code_2003": "67123000",
-    "description_2003": "Processing and clearing services.(3)",
-    "code_2007": "66133000(2)",
+    "description_2003": "Processing and clearing services.",
+    "code_2007": "66133000",
     "description_2007": "Processing and clearing services."
   },
   {
     "code_2003": "67130000",
-    "description_2003": "Portfolio management, trust and custody services.(3)",
-    "code_2007": "66140000(2)",
+    "description_2003": "Portfolio management, trust and custody services.",
+    "code_2007": "66140000",
     "description_2007": "Portfolio management services."
   },
   {
     "code_2003": "67130000",
-    "description_2003": "Portfolio management, trust and custody services.(3)",
-    "code_2007": "66161000(2)",
+    "description_2003": "Portfolio management, trust and custody services.",
+    "code_2007": "66161000",
     "description_2007": "Trust services."
   },
   {
     "code_2003": "67130000",
-    "description_2003": "Portfolio management, trust and custody services.(3)",
-    "code_2007": "66162000(2)",
+    "description_2003": "Portfolio management, trust and custody services.",
+    "code_2007": "66162000",
     "description_2007": "Custody services."
   },
   {
     "code_2003": "67131000",
-    "description_2003": "Portfolio management services.(3)",
-    "code_2007": "66140000(2)",
+    "description_2003": "Portfolio management services.",
+    "code_2007": "66140000",
     "description_2007": "Portfolio management services."
   },
   {
     "code_2003": "67131100",
-    "description_2003": "Pension fund management services.(3)",
-    "code_2007": "66141000(2)",
+    "description_2003": "Pension fund management services.",
+    "code_2007": "66141000",
     "description_2007": "Pension fund management services."
   },
   {
     "code_2003": "67132000",
-    "description_2003": "Trust services.(3)",
-    "code_2007": "66161000(2)",
+    "description_2003": "Trust services.",
+    "code_2007": "66161000",
     "description_2007": "Trust services."
   },
   {
     "code_2003": "67133000",
-    "description_2003": "Custody services.(3)",
-    "code_2007": "66162000(2)",
+    "description_2003": "Custody services.",
+    "code_2007": "66162000",
     "description_2007": "Custody services."
   },
   {
     "code_2003": "67140000",
-    "description_2003": "Financial markets administration services.(3)",
-    "code_2007": "66150000(2)",
+    "description_2003": "Financial markets administration services.",
+    "code_2007": "66150000",
     "description_2007": "Financial markets administration services."
   },
   {
     "code_2003": "67141000",
-    "description_2003": "Financial market operational services.(3)",
-    "code_2007": "66151000(2)",
+    "description_2003": "Financial market operational services.",
+    "code_2007": "66151000",
     "description_2007": "Financial market operational services."
   },
   {
     "code_2003": "67142000",
-    "description_2003": "Financial market regulatory services.(3)",
-    "code_2007": "66152000(2)",
+    "description_2003": "Financial market regulatory services.",
+    "code_2007": "66152000",
     "description_2007": "Financial market regulatory services."
   },
   {
     "code_2003": "67150000",
-    "description_2003": "Other services auxiliary to financial intermediation, except to insurance and pension funding.(3)",
-    "code_2007": "66170000(2)",
+    "description_2003": "Other services auxiliary to financial intermediation, except to insurance and pension funding.",
+    "code_2007": "66170000",
     "description_2007": "Financial consultancy, financial transaction processing and clearing-house services."
   },
   {
     "code_2003": "67151000",
-    "description_2003": "Financial consultancy services.(3)",
-    "code_2007": "66171000(2)",
+    "description_2003": "Financial consultancy services.",
+    "code_2007": "66171000",
     "description_2007": "Financial consultancy services."
   },
   {
     "code_2003": "67152000",
-    "description_2003": "Foreign exchange services.(3)",
-    "code_2007": "66180000(2)",
+    "description_2003": "Foreign exchange services.",
+    "code_2007": "66180000",
     "description_2007": "Foreign exchange services."
   },
   {
     "code_2003": "67153000",
-    "description_2003": "Financial transaction processing and clearing-house services.(3)",
-    "code_2007": "66172000(2)",
+    "description_2003": "Financial transaction processing and clearing-house services.",
+    "code_2007": "66172000",
     "description_2007": "Financial transaction processing and clearing-house services."
   },
   {
     "code_2003": "67154000",
-    "description_2003": "Loan brokerage services.(3)",
-    "code_2007": "66190000(2)",
+    "description_2003": "Loan brokerage services.",
+    "code_2007": "66190000",
     "description_2007": "Loan brokerage services."
   },
   {
@@ -47311,8 +47311,8 @@
   },
   {
     "code_2003": "73000000",
-    "description_2003": "Research and development services and related consultancy services.(4)",
-    "code_2007": "73000000(3)",
+    "description_2003": "Research and development services and related consultancy services.",
+    "code_2007": "73000000",
     "description_2007": "Research and development services and related consultancy services."
   },
   {
@@ -47767,8 +47767,8 @@
   },
   {
     "code_2003": "74142200",
-    "description_2003": "Arbitration and conciliation services.(5)",
-    "code_2007": "79422000(4)",
+    "description_2003": "Arbitration and conciliation services.",
+    "code_2007": "79422000",
     "description_2007": "Arbitration and conciliation services."
   },
   {
@@ -48769,14 +48769,14 @@
   },
   {
     "code_2003": "74500000",
-    "description_2003": "Labour recruitment and provision of personnel services.(6)",
-    "code_2007": "79600000(5)",
+    "description_2003": "Labour recruitment and provision of personnel services.",
+    "code_2007": "79600000",
     "description_2007": "Recruitment services."
   },
   {
     "code_2003": "74510000",
-    "description_2003": "Placement services of personnel.(6)",
-    "code_2007": "79610000(5)",
+    "description_2003": "Placement services of personnel.",
+    "code_2007": "79610000",
     "description_2007": "Placement services of personnel."
   },
   {
@@ -48799,8 +48799,8 @@
   },
   {
     "code_2003": "74520000",
-    "description_2003": "Supply services of personnel.(6)",
-    "code_2007": "79620000(5)",
+    "description_2003": "Supply services of personnel.",
+    "code_2007": "79620000",
     "description_2007": "Supply services of personnel including temporary staff."
   },
   {
@@ -48835,8 +48835,8 @@
   },
   {
     "code_2003": "74530000",
-    "description_2003": "Recruitment services.(6)",
-    "code_2007": "79600000(5)",
+    "description_2003": "Recruitment services.",
+    "code_2007": "79600000",
     "description_2007": "Recruitment services."
   },
   {
@@ -51973,32 +51973,32 @@
   },
   {
     "code_2003": "92200000",
-    "description_2003": "Radio and television services.(7)",
-    "code_2007": "92200000(6)",
+    "description_2003": "Radio and television services.",
+    "code_2007": "92200000",
     "description_2007": "Radio and television services."
   },
   {
     "code_2003": "92210000",
-    "description_2003": "Radio services.(7)",
-    "code_2007": "92210000(6)",
+    "description_2003": "Radio services.",
+    "code_2007": "92210000",
     "description_2007": "Radio services."
   },
   {
     "code_2003": "92211000",
-    "description_2003": "Radio broadcasting services.(7)",
-    "code_2007": "92211000(6)",
+    "description_2003": "Radio broadcasting services.",
+    "code_2007": "92211000",
     "description_2007": "Radio production services."
   },
   {
     "code_2003": "92220000",
-    "description_2003": "Television services.(7)",
-    "code_2007": "92220000(6)",
+    "description_2003": "Television services.",
+    "code_2007": "92220000",
     "description_2007": "Television services."
   },
   {
     "code_2003": "92221000",
-    "description_2003": "Television broadcasting services.(7)",
-    "code_2007": "92221000(6)",
+    "description_2003": "Television broadcasting services.",
+    "code_2007": "92221000",
     "description_2007": "Television production services."
   },
   {
@@ -61286,25 +61286,25 @@
   {
     "code_2003": null,
     "description_2003": null,
-    "code_2007": "66113100(2)",
+    "code_2007": "66113100",
     "description_2007": "Micro-credit granting services."
   },
   {
     "code_2003": null,
     "description_2003": null,
-    "code_2007": "66115000(2)",
+    "code_2007": "66115000",
     "description_2007": "International payment transfer services."
   },
   {
     "code_2003": null,
     "description_2003": null,
-    "code_2007": "66151100(2)",
+    "code_2007": "66151100",
     "description_2007": "Electronic marketplace retailing services."
   },
   {
     "code_2003": null,
     "description_2003": null,
-    "code_2007": "66160000(2)",
+    "code_2007": "66160000",
     "description_2007": "Trust and custody services."
   },
   {
